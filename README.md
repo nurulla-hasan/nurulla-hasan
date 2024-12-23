@@ -1,5 +1,3 @@
-# Nurulla Hasan's GitHub
-
 # About Me
 I am Nurulla Hasan, a frontend developer proficient in JavaScript, React, Express, and Node.js. I have extensive experience with MongoDB for database management and use Tailwind CSS and Bootstrap for responsive, modern designs. My expertise ensures efficient, user-friendly web applications.
 
