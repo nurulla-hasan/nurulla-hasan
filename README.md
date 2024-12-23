@@ -7,6 +7,17 @@ Frontend Development: Expertise in JavaScript, React, Tailwind CSS for modern, r
 Backend Development: Skilled in Express.js, Node.js, and MongoDB for efficient database and server-side solutions.
 I am committed to building seamless, user-friendly web applications with a strong focus on functionality and design.
 
+## 🌟 About Me
+
+Hi, I’m **Nurulla Hasan**, a passionate **Frontend Developer** and a **Junior MERN Stack Developer**, aspiring to become a proficient **MERN Stack Developer** in the future.
+
+### 💼 What I Do:
+- **Frontend Development**: Expertise in **JavaScript**, **React**, **Tailwind CSS**, and **Bootstrap** for modern, responsive designs.
+- **Backend Development**: Skilled in **Express.js**, **Node.js**, and **MongoDB** for efficient database and server-side solutions.
+
+I am committed to building seamless, user-friendly web applications with a strong focus on functionality and design.
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Golap12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=Golap12&theme=tokyonight&hide_border=false)
