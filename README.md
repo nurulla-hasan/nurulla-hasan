@@ -1,5 +1,11 @@
 # About Me
-I am Nurulla Hasan, a frontend developer proficient in JavaScript, React, Express, and Node.js. I have extensive experience with MongoDB for database management and use Tailwind CSS and Bootstrap for responsive, modern designs. My expertise ensures efficient, user-friendly web applications.
+Hi, I’m Nurulla Hasan, a passionate Frontend Developer and a Junior MERN Stack Developer, aspiring to become a proficient MERN Stack Developer in the future.
+
+I specialize in:
+
+Frontend Development: Expertise in JavaScript, React, Tailwind CSS for modern, responsive designs.
+Backend Development: Skilled in Express.js, Node.js, and MongoDB for efficient database and server-side solutions.
+I am committed to building seamless, user-friendly web applications with a strong focus on functionality and design.
 
 # 📊 GitHub Stats:
 
