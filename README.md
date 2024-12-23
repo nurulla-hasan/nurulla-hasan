@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [My Protfolio]
 
-- 🌱 I’m currently learning ** Nextjs**
+- 🌱 I’m currently learning ** Next.js**
 
 - 💬 Ask me about **React.js, Express.js**
 
