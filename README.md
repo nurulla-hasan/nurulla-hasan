@@ -2,12 +2,8 @@
 I am Nurulla Hasan, a frontend developer proficient in JavaScript, React, Express, and Node.js. I have extensive experience with MongoDB for database management and use Tailwind CSS and Bootstrap for responsive, modern designs. My expertise ensures efficient, user-friendly web applications.
 
 # 📊 GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Golap12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 ![](https://github-readme-stats.vercel.app/api?username=Golap12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=Golap12&theme=tokyonight&hide_border=false)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Golap12&icon=0&color=0)](https://visitcount.itsvg.in)
