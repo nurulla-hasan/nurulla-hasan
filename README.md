@@ -5,9 +5,10 @@ I am Nurulla Hasan, a frontend developer proficient in JavaScript, React, Expres
 ![](https://github-profile-trophy.vercel.app/?username=Golap12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Golap12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Golap12&theme=tokyonight&hide_border=false)<br/>
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <p>![](https://github-readme-stats.vercel.app/api?username=Golap12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)</p>
+  <p>![](https://github-readme-streak-stats.herokuapp.com/?user=Golap12&theme=tokyonight&hide_border=false)</p>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Golap12&icon=0&color=0)](https://visitcount.itsvg.in)
