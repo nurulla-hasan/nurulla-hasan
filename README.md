@@ -1,6 +1,6 @@
-## 🌟 About Me
+## 🌟 Hi there
 
-Hi, I’m **Nurulla Hasan**, a passionate **Frontend Developer** and a **Junior MERN Stack Developer**, aspiring to become a proficient **MERN Stack Developer** in the future.
+I’m **Nurulla Hasan**, a passionate **Frontend Developer** and a **Junior MERN Stack Developer**, aspiring to become a proficient **MERN Stack Developer** in the future.
 
 ### 💼 I specialize in:
 - **Frontend Development**: Expertise in **JavaScript**, **React**, **Tailwind CSS**, and **Bootstrap** for modern, responsive designs.
