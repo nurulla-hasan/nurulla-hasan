@@ -23,10 +23,10 @@ I am committed to building seamless, user-friendly web applications with a stron
 ---
 
 ## 🚀 Work Status:
-- 🔭 I’m currently working on [My Portfolio](personal-portfolio-six-blush-93.vercel.app)
+- 🔭 I’m currently working on SpearkTech Technology LTD.
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React.js, Express.js**
-- 📫 How to reach me: **golaphasan379@gmail.com**
+- 📫 How to reach me: **nurullahasan.dev@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1EM4ctU3ALqVm4H7VF9CQBiHsZi0qWCKc-F9uE0Gp6vg/view)
 - ⚡ Fun fact: "I can debug code faster than I can decide what to eat!"
 
