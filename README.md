@@ -27,7 +27,7 @@ I am committed to building seamless, user-friendly web applications with a stron
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React.js, Express.js**
 - 📫 How to reach me: **nurullahasan.dev@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1EM4ctU3ALqVm4H7VF9CQBiHsZi0qWCKc-F9uE0Gp6vg/view)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view)
 - ⚡ Fun fact: "I can debug code faster than I can decide what to eat!"
 
 ---
