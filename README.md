@@ -23,7 +23,7 @@ I am committed to building seamless, user-friendly web applications with a stron
 ---
 
 ## 🚀 Work Status:
-- 🔭 I’m currently working on SpearkTech Technology LTD.
+- 🔭 I’m currently working on SparkTech Agency.
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React.js, Express.js**
 - 📫 How to reach me: **nurullahasan.dev@gmail.com**
