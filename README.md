@@ -24,8 +24,8 @@ I am committed to building seamless, user-friendly web applications with a stron
 
 ## 🚀 Work Status:
 - 🔭 I’m currently working on SparkTech Agency.
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React.js, Express.js**
+- 🌱 I’m currently learning **Programing Hero lvl 2**
+- 💬 Ask me about **React.js, Next.js, Express.js**
 - 📫 How to reach me: **nurullahasan.dev@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view)
 - ⚡ Fun fact: "I can debug code faster than I can decide what to eat!"
