@@ -1,95 +1,67 @@
-<!-- Wave Banner -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+<!-- Top Wave -->
+<img src="https://raw.githubusercontent.com/harish-sethuraman/wave/main/assets/wave.svg" width="100%" />
 
-<!-- Typing Animation -->
+<h1 align="center">Hi, I'm <span style="color:#4F46E5;">Nurulla Hasan</span> 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Nurulla+Hasan;Frontend+Developer;MERN+Stack+Developer;Clean+UI+Lover;TypeScript+%7C+Redux+Expert;Next.js+Specialist">
+  <strong>Frontend Developer | Junior MERN Stack Developer</strong><br/>
+  Passionate about building modern, scalable and clean web applications.
 </p>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-### 🔥 A Developer Who Loves Clean UI, Performance & Scalable Architecture  
-Building modern full-stack applications with **React, Next.js, Node, Express & MongoDB**.
+I’m **Nurulla Hasan**, a passionate **Frontend Developer** and a growing **MERN Stack Developer**, constantly improving my skills to become a full professional in the MERN ecosystem.
 
-</div>
-
----
-
-# 🧠 **About Me**
-- 🚀 Junior **MERN Stack Developer**
-- 💙 Passionate about **clean UI, animations & efficient architecture**
-- 🔥 Expert in **Next.js App Router + Redux Toolkit + TypeScript**
-- 📚 Always learning & improving
-- 🏢 Currently working at **SparkTech Agency**
-- 📨 Email: **nurullahasan.dev@gmail.com**
+### 🔥 I specialize in:
+- ⚡ **Frontend:** React, Next.js, JavaScript, TypeScript, TailwindCSS, ShadCN UI
+- ⚡ **Backend:** Node.js, Express.js, MongoDB
+- ⚡ Clean UI • Performance • Best Practices • Scalable Architecture
 
 ---
 
-# ⚡ **Tech Arsenal**
+## ⚡ Tech Stack
 
-### 🎨 Frontend
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,redux,tailwind,bootstrap)
-
-### 🔧 Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
-
-### 🧰 Tools & DevOps
-![My Skills](https://skillicons.dev/icons?i=git,github,firebase,vercel,netlify)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=false" />
+### 🧩 Languages & Frameworks  
+<p align="left">
+<img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=false" />
+### 🎨 UI Libraries  
+<p align="left">
+<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🛠 Tools  
+<p align="left">
+<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nurulla-hasan/nurulla-hasan/output/github-contribution-grid-snake.svg" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-# 🚀 Featured Projects (Add Your Repo Links)
-| Project | Description | Tech |
-|--------|-------------|------|
-| ⭐ **Your Portfolio** | Modern personal portfolio | Next.js, Tailwind |
-| ⭐ **Restaurant App** | Full-stack restaurant system | Next.js, MongoDB, Redux |
-| ⭐ **Surveyor Website** | Land measurement service site | Next.js |
+## 🐍 Contribution Snake
 
+> Works only if workflow is added  
+> (If you want, I can set it up for you)
 
----
-
-# 🌐 Links
-- 📄 **Resume:** [Click Here](https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view)
-- 🌍 **Portfolio:** *Coming Soon*
-- 💬 **Ask me anything!**
-
----
-
-# 💙 Profile Visits
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nurulla-hasan&icon=5&color=6" />
-</p>
-
----
-
-<div align="center">
-
-### ✨ *Thank you for visiting!*  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-
-</div>
-
-<!-- Wave Footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
