@@ -6,10 +6,12 @@
 ---
 
 # 👋 Hi, I'm **Nurulla Hasan**
+<div align="center">
 
-A passionate **Frontend Developer** and growing **MERN Stack Developer** who loves building 
-modern, efficient, and elegant web applications.  
-I focus on **clean UI**, **performance**, and **scalable architecture**.
+### 🔥 A Developer Who Loves Clean UI, Performance & Scalable Architecture  
+Building modern full-stack applications with **React, Next.js, Node, Express & MongoDB**.
+
+</div>
 
 ---
 
@@ -47,13 +49,6 @@ I focus on **clean UI**, **performance**, and **scalable architecture**.
 
 ---
 
-## 📌 **Profile Visits**
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nurulla-hasan&icon=0&color=6A5ACD"/>
-</p>
-
----
-
 ## 💼 **Current Work**
 - 🔭 Working at **SparkTech Agency**
 - 🌱 Learning **Programming Hero Level 2**
@@ -86,3 +81,4 @@ I care about:
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
+
