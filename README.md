@@ -1,20 +1,91 @@
-## 🌟 Hi there
-
-I’m **Nurulla Hasan**, a passionate **Frontend Developer** and a **Junior MERN Stack Developer**, aspiring to become a proficient **MERN Stack Developer** in the future.
-
-### 💼 I specialize in:
-- **Frontend Development**: Expertise in **JavaScript**, **React.js**, **Next.js**, **Tailwind CSS**, and **Bootstrap** for modern, responsive designs.
-- **Backend Development**: Skilled in **Express.js**, **Node.js**, and **MongoDB** for efficient database and server-side solutions.
-
-I am committed to building seamless, user-friendly web applications with a strong focus on functionality and design.
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Nurulla+Hasan;Frontend+Developer;MERN+Stack+Developer;Clean+UI+%26+Scalable+Architecture;Always+Learning+New+Things">
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+# 👋 Hi, I'm **Nurulla Hasan**
 
-![](https://github-readme-stats.vercel.app/api?username=nurulla-hasan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+A passionate **Frontend Developer** and growing **MERN Stack Developer** who loves building 
+modern, efficient, and elegant web applications.  
+I focus on **clean UI**, **performance**, and **scalable architecture**.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=false)
+---
+
+## 🚀 **Tech Stack**
+
+### 🖥️ **Frontend**
+- **TypeScript**, JavaScript (ES6+)
+- **React.js**, **Next.js (App Router)**
+- **Redux Toolkit**, React Query
+- **Tailwind CSS**, **shadcn/ui**, Bootstrap
+
+### ⚙️ **Backend**
+- **Node.js**, **Express.js**
+- **MongoDB**, Mongoose
+
+### 🧰 **Tools & Platforms**
+- Git & GitHub  
+- Firebase  
+- Vercel, Netlify  
+- REST APIs  
+- npm, pnpm  
+
+---
+
+## 📊 **GitHub Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&theme=tokyonight&hide_border=false&show_icons=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=false" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=false" height="150px"/>
+</p>
+
+---
+
+## 📌 **Profile Visits**
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nurulla-hasan&icon=0&color=6A5ACD"/>
+</p>
+
+---
+
+## 💼 **Current Work**
+- 🔭 Working at **SparkTech Agency**
+- 🌱 Learning **Programming Hero Level 2**
+- 💬 Ask me about **React, Next.js, Express, MongoDB**
+- 📫 Email: **nurullahasan.dev@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view)
+- ⚡ Fun fact: _"I can debug code faster than I decide what to eat!"_
+
+---
+
+## 🛠️ **Languages & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify" />
+</p>
+
+---
+
+## ✨ **About Me**
+I care about:
+- Clean & modern design  
+- Performance and optimization  
+- Scalable and maintainable architecture  
+- Writing reusable components  
+- Building real-world apps that solve real problems  
+
+---
+
+## 🧡 **Thank you for visiting!**
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
 
 ---
 
@@ -42,4 +113,5 @@ I am committed to building seamless, user-friendly web applications with a stron
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1318621368736022598) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurulla-hasan)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/golap.hasan.315) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_nurulla)
+
 
