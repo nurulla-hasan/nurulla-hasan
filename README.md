@@ -72,12 +72,19 @@
 <h2 align="center">⚡ GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=radical&hide_border=true" height="180" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <br/>
+  <!-- Using Shields.io as a reliable fallback since external stats services are currently unavailable or blocking requests -->
+  <a href="https://github.com/nurulla-hasan?tab=repositories">
+    <img src="https://img.shields.io/github/public-repos/nurulla-hasan?style=for-the-badge&logo=github&color=6A5ACD&logoColor=white" />
+  </a>
+  <a href="https://github.com/nurulla-hasan?tab=followers">
+    <img src="https://img.shields.io/github/followers/nurulla-hasan?style=for-the-badge&logo=github&color=0170FE&logoColor=white" />
+  </a>
+  <a href="https://github.com/nurulla-hasan">
+    <img src="https://img.shields.io/github/stars/nurulla-hasan?style=for-the-badge&logo=github&color=EA4335&logoColor=white" />
+  </a>
+  <br/>
+  <br/>
 </div>
 
 <br />
