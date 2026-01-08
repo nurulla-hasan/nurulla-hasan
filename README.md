@@ -1,6 +1,6 @@
 <!-- Header & Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/6007001/github-profile-banner.png" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co/6007001/github-profile-banner.png" width="100%" alt="Banner" style="border-radius: 10px;" />
   
   <br />
   <br />
@@ -75,6 +75,20 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
+  <!-- Robust Badge Stats (Always Visible) -->
+  <p>
+    <a href="https://github.com/nurulla-hasan?tab=repositories">
+        <img src="https://img.shields.io/github/public-repos/nurulla-hasan?style=for-the-badge&logo=github&color=6A5ACD&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://github.com/nurulla-hasan?tab=followers">
+        <img src="https://img.shields.io/github/followers/nurulla-hasan?style=for-the-badge&logo=github&color=0170FE&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://github.com/nurulla-hasan">
+        <img src="https://img.shields.io/github/stars/nurulla-hasan?style=for-the-badge&logo=github&color=EA4335&logoColor=white" />
+    </a>
+  </p>
+
+  <!-- Attempt at Visual Stats (May fail if server is down, but looks great if up) -->
   <p>
     <a href="https://github.com/nurulla-hasan">
       <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
@@ -82,12 +96,6 @@
     &nbsp;
     <a href="https://github.com/nurulla-hasan">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=true&background=00000000" height="170" alt="streak" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://github.com/nurulla-hasan">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages" />
     </a>
   </p>
 </div>
