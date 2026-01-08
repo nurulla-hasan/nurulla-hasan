@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Nurulla%20Hasan&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nurulla%20Hasan&fontSize=70&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Typing SVG -->
@@ -99,3 +99,4 @@ I care about:
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
+
