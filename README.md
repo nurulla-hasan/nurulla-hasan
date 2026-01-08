@@ -1,115 +1,105 @@
-<!-- Dynamic Header -->
+<!-- Header & Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nurulla%20Hasan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://i.ibb.co/6007001/github-profile-banner.png" width="100%" alt="Banner" />
+  
+  <br />
+  <br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Frontend+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;MERN+Stack+Architect+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9C%A8;Building+The+Future+One+Pixel+at+a+Time" alt="Typing SVG" />
 </div>
 
-<!-- Typing SVG Greeting -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=333333&background=00000000&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Specialized+in+React+and+Next.js;Obsessed+with+Clean+Code+%26+Performance;Turning+Ideas+into+Pixel-Perfect+Reality">
-</p>
-
-<!-- Social Badges -->
+<!-- Social Links (For The Badge Style) -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:nurullahasan.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
-<br />
+---
 
-<!-- Intro Section -->
+<!-- About Me Section -->
 <div align="center">
+  <h2>⚡ About Me</h2>
+  <blockquote>
+    <br/>
+    <b>20-year-old Frontend Developer & UI/UX Specialist</b><br/>
+    <i>"I don't just write code; I craft immersive digital experiences."</i>
+    <br/><br/>
+    🔭 <b>Currently working on</b>: Enterprise Dashboard Solutions<br/>
+    🌱 <b>Learning</b>: High-scale System Architecture & AWS<br/>
+    💬 <b>Ask me about</b>: React Performance, Next.js optimization, State Management<br/>
+    <br/>
+  </blockquote>
+</div>
+
+<!-- Trophies (Gamification) -->
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nurulla-hasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="trophy" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Tech Stack (Clean Flow Layout) -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
   
-  > 🚀 **I craft high-performance web experiences.**
-  >
-  > I’m a passionate **Frontend Developer** specializing in **React, Next.js, and Modern UI Libraries**.  
-  > I love combining technical depth with visual aesthetics to build products that users love.
-
+  <p><b>Core & Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,html,css&theme=dark" />
+  
+  <br/><br/>
+  
+  <p><b>Backend & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&theme=dark" />
+  
+  <br/><br/>
+  
+  <p><b>Tools & Platforms</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman&theme=dark" />
 </div>
 
-<br />
+<br/>
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Technical Arsenal</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=light" width="180" height="auto" alt="core" />
-      <br /><b>Core Language</b>
-    </td>
-    <td align="center" width="280">
-      <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,materialui&theme=light" width="220" height="auto" alt="frontend" />
-      <!-- Shadcn and Ant Design Badges (Since icons might not be in generic sets) -->
-      <br />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" height="25" />
-      <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white" height="25" />
-      <br /><b>Frontend & UI Libraries</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light" width="180" height="auto" alt="backend" />
-      <br /><b>Backend & DB</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma&theme=light" width="200" height="auto" alt="tools" />
-      <br /><b>DevOps & Tools</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- Stats Section -->
-<h2 align="center">⚡ GitHub Analytics</h2>
-
+<!-- Stats Section (Grid Layout) -->
 <div align="center">
-  <br/>
-  <!-- Using Shields.io as a reliable fallback since external stats services are currently unavailable or blocking requests -->
-  <a href="https://github.com/nurulla-hasan?tab=repositories">
-    <img src="https://img.shields.io/github/public-repos/nurulla-hasan?style=for-the-badge&logo=github&color=6A5ACD&logoColor=white" />
-  </a>
-  <a href="https://github.com/nurulla-hasan?tab=followers">
-    <img src="https://img.shields.io/github/followers/nurulla-hasan?style=for-the-badge&logo=github&color=0170FE&logoColor=white" />
-  </a>
-  <a href="https://github.com/nurulla-hasan">
-    <img src="https://img.shields.io/github/stars/nurulla-hasan?style=for-the-badge&logo=github&color=EA4335&logoColor=white" />
-  </a>
-  <br/>
-  <br/>
+  <h2>📊 GitHub Analytics</h2>
+  
+  <p>
+    <a href="https://github.com/nurulla-hasan">
+      <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/nurulla-hasan">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=true&background=00000000" height="170" alt="streak" />
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/nurulla-hasan">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages" />
+    </a>
+  </p>
 </div>
 
-<br />
+<br/>
 
-<!-- About Me & Footer -->
-<h2 align="center">👨‍💻 About Me</h2>
-
+<!-- Footer -->
 <div align="center">
-
-| 🌱 **Currently Learning** | 🔭 **Working On** | 💬 **Expertise** |
-|:-------------------------|:------------------|:-------------------|
-| Advanced System Design   | Real-time Apps    | React, Next.js, Redux |
-| AWS Cloud Services       | SparkTech Projects | Shadcn UI, Ant Design |
-
-</div>
-
-<br />
-
-<div align="center">
-  <i>"I debug code faster than I decide what to eat!" 🍕</i>
-  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+  
+  <br/>
   <a href="https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-View_PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME-DOWNLOAD-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
-
-<br />
-
