@@ -1,16 +1,15 @@
-<!-- Banner -->
+<!-- Dynamic Header -->
 <div align="center">
-  <img src="https://i.ibb.co/6007001/github-profile-banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nurulla%20Hasan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=25" width="100%" />
 </div>
 
 <!-- Typing SVG Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6A5ACD&background=00000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Nurulla+Hasan;Frontend+Specialist;MERN+Stack+Developrer;Architecting+Scalable+Web+Apps;obsessed+with+Clean+UI+%26+Performance">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=333333&background=00000000&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Specialized+in+React+and+Next.js;Obsessed+with+Clean+Code+%26+Performance;Turning+Ideas+into+Pixel-Perfect+Reality">
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <!-- TODO: Replace with your actual URLs -->
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,10 +29,10 @@
 <!-- Intro Section -->
 <div align="center">
   
-  > 🚀 **Building high-performance, pixel-perfect web experiences.**
+  > 🚀 **I craft high-performance web experiences.**
   >
-  > I’m a passionate **Frontend Developer** specializing in **React, Next.js, and Modern UI Frameworks**.  
-  > Currently streamlining workflows at **SparkTech Agency** while leveling up my skills every day.
+  > I’m a passionate **Frontend Developer** specializing in **React, Next.js, and Modern UI Libraries**.  
+  > I love combining technical depth with visual aesthetics to build products that users love.
 
 </div>
 
@@ -44,20 +43,24 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" width="90" height="auto" alt="js-ts" />
-      <br /><b>Core</b>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=light" width="180" height="auto" alt="core" />
+      <br /><b>Core Language</b>
     </td>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind&theme=dark" width="190" height="auto" alt="frontend" />
-      <br /><b>Frontend & UI</b>
+    <td align="center" width="280">
+      <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,materialui&theme=light" width="220" height="auto" alt="frontend" />
+      <!-- Shadcn and Ant Design Badges (Since icons might not be in generic sets) -->
+      <br />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white" height="25" />
+      <br /><b>Frontend & UI Libraries</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" width="190" height="auto" alt="backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light" width="180" height="auto" alt="backend" />
       <br /><b>Backend & DB</b>
     </td>
     <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" width="180" height="auto" alt="tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma&theme=light" width="200" height="auto" alt="tools" />
       <br /><b>DevOps & Tools</b>
     </td>
   </tr>
@@ -69,41 +72,25 @@
 <h2 align="center">⚡ GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Top: Stats Card & Streak -->
-  <a href="https://github.com/nurulla-hasan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/nurulla-hasan">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=true&background=00000000" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=radical&hide_border=true" height="180" alt="streak" />
 </div>
 
 <div align="center">
-  <!-- Bottom: Top Languages -->
-  <a href="https://github.com/nurulla-hasan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 </div>
 
 <br />
-
-<!-- WakaTime Section (Commented out waiting for setup) -->
-<!-- 
-<h2 align="center">⏳ Coding Activity</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nurulla-hasan&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" />
-</p>
--->
 
 <!-- About Me & Footer -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-| 🌱 **Currently Learning** | 🔭 **Working On** | 💬 **Ask Me About** |
+| 🌱 **Currently Learning** | 🔭 **Working On** | 💬 **Expertise** |
 |:-------------------------|:------------------|:-------------------|
-| Advanced System Design   | Real-time Dashboard Apps | React, Next.js Performance |
-| AWS Cloud Services       | SparkTech Projects | Clean Architecture |
+| Advanced System Design   | Real-time Apps    | React, Next.js, Redux |
+| AWS Cloud Services       | SparkTech Projects | Shadcn UI, Ant Design |
 
 </div>
 
@@ -119,6 +106,3 @@
 
 <br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
