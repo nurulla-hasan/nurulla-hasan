@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Nurulla%20Hasan&fontSize=70&animation=fadeIn" width="100%" />
+</div>
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Nurulla+Hasan;Frontend+Developer;MERN+Stack+Developer;Clean+UI+%26+Scalable+Architecture;Always+Learning+New+Things">
@@ -61,8 +66,21 @@ Building modern full-stack applications with **React, Next.js, Node, Express & M
 
 ## 🛠️ **Languages & Tools**
 
+### 🎨 **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind" />
+  <br/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30" />
+</p>
+
+### ⚙️ **Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🧰 **Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 </p>
 
 ---
