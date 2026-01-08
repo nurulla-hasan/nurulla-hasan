@@ -1,113 +1,83 @@
-<!-- Header & Banner -->
-<div align="center">
-  <img src="https://i.ibb.co/6007001/github-profile-banner.png" width="100%" alt="Banner" style="border-radius: 10px;" />
-  
-  <br />
-  <br />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Frontend+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;MERN+Stack+Architect+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9C%A8;Building+The+Future+One+Pixel+at+a+Time" alt="Typing SVG" />
-</div>
-
-<!-- Social Links (For The Badge Style) -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:nurullahasan.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Nurulla+Hasan;Frontend+Developer;MERN+Stack+Developer;Clean+UI+%26+Scalable+Architecture;Always+Learning+New+Things">
 </p>
 
 ---
 
-<!-- About Me Section -->
+# 👋 Hi, I'm **Nurulla Hasan**
 <div align="center">
-  <h2>⚡ About Me</h2>
-  <blockquote>
-    <br/>
-    <b>20-year-old Frontend Developer & UI/UX Specialist</b><br/>
-    <i>"I don't just write code; I craft immersive digital experiences."</i>
-    <br/><br/>
-    🔭 <b>Currently working on</b>: Enterprise Dashboard Solutions<br/>
-    🌱 <b>Learning</b>: High-scale System Architecture & AWS<br/>
-    💬 <b>Ask me about</b>: React Performance, Next.js optimization, State Management<br/>
-    <br/>
-  </blockquote>
+
+### 🔥 A Developer Who Loves Clean UI, Performance & Scalable Architecture  
+Building modern full-stack applications with **React, Next.js, Node, Express & MongoDB**.
+
 </div>
 
-<!-- Trophies (Gamification) -->
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nurulla-hasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="trophy" />
-  </a>
-</div>
+---
 
-<br/>
+## 🚀 **Tech Stack**
 
-<!-- Tech Stack (Clean Flow Layout) -->
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  
-  <p><b>Core & Frontend</b></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,html,css&theme=dark" />
-  
-  <br/><br/>
-  
-  <p><b>Backend & Database</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&theme=dark" />
-  
-  <br/><br/>
-  
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman&theme=dark" />
-</div>
+### 🖥️ **Frontend**
+- **TypeScript**, JavaScript (ES6+)
+- **React.js**, **Next.js (App Router)**
+- **Redux Toolkit**, React Query
+- **Tailwind CSS**, **shadcn/ui**, Bootstrap
 
-<br/>
+### ⚙️ **Backend**
+- **Node.js**, **Express.js**
+- **MongoDB**, Mongoose
 
-<!-- Stats Section (Grid Layout) -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Robust Badge Stats (Always Visible) -->
-  <p>
-    <a href="https://github.com/nurulla-hasan?tab=repositories">
-        <img src="https://img.shields.io/github/public-repos/nurulla-hasan?style=for-the-badge&logo=github&color=6A5ACD&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://github.com/nurulla-hasan?tab=followers">
-        <img src="https://img.shields.io/github/followers/nurulla-hasan?style=for-the-badge&logo=github&color=0170FE&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://github.com/nurulla-hasan">
-        <img src="https://img.shields.io/github/stars/nurulla-hasan?style=for-the-badge&logo=github&color=EA4335&logoColor=white" />
-    </a>
-  </p>
+### 🧰 **Tools & Platforms**
+- Git & GitHub  
+- Firebase  
+- Vercel, Netlify  
+- REST APIs  
+- npm, pnpm  
 
-  <!-- Attempt at Visual Stats (May fail if server is down, but looks great if up) -->
-  <p>
-    <a href="https://github.com/nurulla-hasan">
-      <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/nurulla-hasan">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=true&background=00000000" height="170" alt="streak" />
-    </a>
-  </p>
-</div>
+---
 
-<br/>
+## 📊 **GitHub Activity**
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-  
-  <br/>
-  <a href="https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-DOWNLOAD-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&theme=tokyonight&hide_border=false&show_icons=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=false" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=false" height="150px"/>
+</p>
+
+---
+
+## 💼 **Current Work**
+- 🔭 Working at **SparkTech Agency**
+- 🌱 Learning **Programming Hero Level 2**
+- 💬 Ask me about **React, Next.js, Express, MongoDB**
+- 📫 Email: **nurullahasan.dev@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/10069VpfUdPNnqjo3ueYIAoield5qYDAEY2vYfO7RFFg/view)
+- ⚡ Fun fact: _"I can debug code faster than I decide what to eat!"_
+
+---
+
+## 🛠️ **Languages & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify" />
+</p>
+
+---
+
+## ✨ **About Me**
+I care about:
+- Clean & modern design  
+- Performance and optimization  
+- Scalable and maintainable architecture  
+- Writing reusable components  
+- Building real-world apps that solve real problems  
+
+---
+
+## 🧡 **Thank you for visiting!**
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
