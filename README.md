@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nurulla-hasan/nurulla-hasan/main/github%20banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/nurulla-hasan/nurulla-hasan/main/banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nurulla Hasan</h1>
