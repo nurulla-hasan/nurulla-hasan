@@ -52,7 +52,7 @@
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/nurulla-hasan/  
 - 💻 GitHub: https://github.com/nurulla-hasan  
-- 🌍 Portfolio: https://portfolio-mu-five-k7foxti51e.vercel.app/  
+- 🌍 Portfolio: https://nurulla-hasan-portfolio-pink.vercel.app/  
 - 📧 Email: nurullahasan.dev@gmail.com  
 
 ---
