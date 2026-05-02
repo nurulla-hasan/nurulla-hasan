@@ -50,7 +50,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/nurulla-hasan/  
+- 💼 LinkedIn: https://www.linkedin.com/nurulla-hasan/  
 - 💻 GitHub: https://github.com/nurulla-hasan  
 - 🌍 Portfolio: https://nurulla-hasan-portfolio-pink.vercel.app/  
 - 📧 Email: nurullahasan.dev@gmail.com  
