@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
-<img src="public/assets/banner.png" width="100%" alt="Nurulla Hasan Banner" />
+<img src="banner.png" width="100%" alt="Nurulla Hasan Banner" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend-Focused+MERN+Developer;Building+Scalable+%26+Clean+UIs;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
