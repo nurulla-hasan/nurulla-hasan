@@ -1,61 +1,114 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nurulla-hasan/nurulla-hasan/main/banner.png" alt="banner" />
+<div align="center">
+
+<!-- Banner Header -->
+<img src="public/assets/banner.png" width="100%" alt="Nurulla Hasan Banner" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend-Focused+MERN+Developer;Building+Scalable+%26+Clean+UIs;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- Profile Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nurulla-hasan&label=Profile%20Views&color=22C55E&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-22C55E?style=flat-square" />
 </p>
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi+I'm+Nurulla+Hasan;Frontend-Focused+MERN+Developer;Clean+UI+%26+Scalable+Apps;Always+Learning+%F0%9F%9A%80" />
-</p>
-
-<h1 align="center">👋 Nurulla Hasan</h1>
-<h3 align="center">Frontend-Focused MERN Stack Developer</h3>
+</div>
 
 ---
 
-## 🚀 About Me
-- 💻 Frontend-focused MERN Developer  
-- ⚡ 1+ year experience building real-world apps & dashboards  
-- 🎯 Focused on **clean, scalable & high-performance UI**  
-- 🏢 Working at **SparkTech Agency**  
-- 📍 Dhaka, Bangladesh  
+## 👨‍💻 About Me
+
+```ts
+const nurulla = {
+  name:       "Nurulla Hasan",
+  role:       "Frontend-Focused MERN Stack Developer",
+  company:    "Betopia Group",
+  location:   "Dhaka, Bangladesh 📍",
+  experience: "1+ Year",
+  focus:      ["Scalable UI", "Clean Architecture", "API-Driven Apps"],
+  contact:    "nurullahasan.dev@gmail.com",
+};
+```
+
+- 🏢 Currently working at **Betopia Group** (On-site)
+- 💡 Passionate about **component architecture & developer experience**
+- 🎯 Specialized in **React, Next.js, TypeScript, and dashboard systems**
+- 📖 Always sharpening skills — currently on Programming Hero Level 2
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,tailwind,redux" />
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
+
+`React.js` `Next.js (App Router)` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Shadcn UI` `Framer Motion`
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `REST API`
+
+### 💾 State & Data Management
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+`Redux Toolkit` `RTK Query` `TanStack Query` `React Hook Form` `Zod` `Context API`
+
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma" />
+</p>
+
+`Git` `GitHub` `Vercel` `VS Code` `Postman`
 
 ---
 
-## 🔥 What I Do
-- 🧩 Reusable UI Components  
-- 🔗 API Integration & Data Handling  
-- ⚡ Performance Optimization  
-- 🏗 Clean Architecture  
+## 🚀 Selected Projects
+
+| Project | Tech | Live | Source |
+|---------|------|------|--------|
+| **MentorIP — Global IP Law Firm** | Next.js, TypeScript, Tailwind, Framer Motion | [🌐 Live](https://mentorip.com) | [📁 Repo](https://github.com/nurulla-hasan/mentorip_website) |
+| **Wedding Marketplace & Vendor Platform** | Next.js, TypeScript, Tailwind, Shadcn UI | [🌐 Live](https://elevator-website-six.vercel.app/) | [📁 Repo](https://github.com/nurulla-hasan/elevator_website) |
+| **Cookbook Recipe & Meal Planner** | React, Redux, JavaScript, Shadcn UI | [🌐 Live](https://koumanisdietapp.com) | [📁 Repo](https://github.com/nurulla-hasan/cookbook-recipe-website) |
+| **Admin & Management Dashboard** | React, TypeScript, Redux Toolkit, RTK Query | [🌐 Live](https://mikefiremerritt-dashboard.vercel.app/auth/login) | [📁 Repo](https://github.com/nurulla-hasan/mikefiremerritt_dashboard) |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurulla-hasan&theme=tokyonight&show_icons=true&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulla-hasan&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulla-hasan&layout=compact&theme=tokyonight&hide_border=true" height="140px"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurulla-hasan&theme=tokyonight" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurulla-hasan&theme=tokyonight" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurulla-hasan&theme=tokyonight" height="150px" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/nurulla-hasan
-- 💻 GitHub: https://github.com/nurulla-hasan  
-- 🌍 Portfolio: https://nurulla-hasan-portfolio-pink.vercel.app/  
-- 📧 Email: nurullahasan.dev@gmail.com  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurulla-hasan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurulla-hasan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://nurulla-hasan-portfolio-pink.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurullahasan.dev@gmail.com)
+
+</div>
 
 ---
 
-## 💡 Motto
-> Code. Build. Solve. Impact.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
