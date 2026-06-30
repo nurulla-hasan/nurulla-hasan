@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Header --> 
-<img src="banner2.png" width="100%" alt="Nurulla Hasan Banner" />
+<img src="banner3.png" width="100%" alt="Nurulla Hasan Banner" />
 
 <br/>
 
