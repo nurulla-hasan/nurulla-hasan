@@ -7,7 +7,7 @@
   alt="Nurulla Hasan - Full-Stack Developer Banner"
 />
 
-<h1 align="center">Hi 👋, I'm Nurulla Hasan</h1>
+### Hi 👋, I'm Nurulla Hasan
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+PostgreSQL;Prisma+ORM+%7C+MongoDB;Building+Production-Ready+Web+Applications+%F0%9F%9A%80"
