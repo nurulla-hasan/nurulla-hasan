@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm **Nurulla Hasan**, a Frontend-Focused Full-Stack Developer with **1+ year of professional experience** building production-ready SaaS platforms, dashboard applications, interactive web tools, and high-performance corporate websites.
+I'm **Nurulla Hasan**, a Frontend Developer || Full-Stack Developer with **1+ year of professional experience** building production-ready SaaS platforms, dashboard applications, interactive web tools, and high-performance corporate websites.
 
 I specialize in creating scalable frontend architectures, reusable UI systems, API-integrated workflows, and SEO-friendly applications using **React, Next.js, TypeScript, and Tailwind CSS**.
 
