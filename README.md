@@ -7,32 +7,15 @@
   alt="Nurulla Hasan - Full-Stack Developer Banner"
 />
 
-# Hi 👋, I'm Nurulla Hasan
+<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Nurulla Hasan</h1>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+PostgreSQL;Prisma+ORM+%7C+MongoDB;Building+Production-Ready+Web+Applications+%F0%9F%9A%80"
   alt="Typing introduction"
 />
-
-<a href="https://komarev.com/ghpvc/?username=nurulla-hasan">
-  <img
-    src="https://komarev.com/ghpvc/?username=nurulla-hasan&label=Profile%20Views&color=22C55E&style=flat-square"
-    alt="Profile views"
-  />
-</a>
-
-<a href="https://github.com/nurulla-hasan?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/nurulla-hasan?label=Followers&style=flat-square&color=22C55E"
-    alt="GitHub followers"
-  />
-</a>
-
 </div>
 
----
-
-## 👨‍💻 About Me
+<h2 align="left" style="border-bottom: none;">👨‍💻 About Me</h2>
 
 - 👋 Hi, I'm **[Nurulla Hasan](https://github.com/nurulla-hasan)**.
 
@@ -57,109 +40,139 @@
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/nurulla-hasan/)**.
 
 - 📫 Reach me via **[Email](mailto:nurullahasan.dev@gmail.com)**.
----
 
-## 🛠️ Technology Stack
 
-### 💻 Languages
+<h2 align="left" style="border-bottom: none; margin-top:50px;">🛠️ Technology Stack</h2>
+
+#### 💻 Languages
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   </a>
 </p>
 
-### 🎨 Frontend Development
+#### 🎨 Frontend Development
 
 <p>
   <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </a>
   <a href="https://redux-toolkit.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" />
+    <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  </a>
+  <a href="https://ui.shadcn.com/">
+    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=fff" alt="shadcn/ui" />
+  </a>
+  <a href="https://konvajs.org/">
+    <img src="https://img.shields.io/badge/Konva.js-0D83CD?style=flat-square&logo=konva&logoColor=white" alt="Konva.js" />
   </a>
 </p>
 
-`React.js` `Next.js App Router` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion` `Konva.js`
-
-### 🗃️ State Management, Forms & Data
+#### 🗃️ State Management, Forms & Data
 
 <p>
-
-`Zustand` `Redux Toolkit` `TanStack Query` `TanStack Table` `React Hook Form` `Zod`
-
+  <a href="https://zustand-demo.pmnd.rs/">
+    <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  </a>
+  <a href="https://redux-toolkit.js.org/">
+    <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  </a>
+  <a href="https://tanstack.com/query">
+    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  </a>
+  <a href="https://tanstack.com/table">
+    <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack Table" />
+  </a>
+  <a href="https://react-hook-form.com/">
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  </a>
+  <a href="https://zod.dev/">
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  </a>
 </p>
 
-### ⚙️ Backend Development
+#### ⚙️ Backend Development
 
 <p>
   <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://restfulapi.net/">
+    <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  </a>
+  <a href="https://jwt.io/">
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Role-based_access_control">
+    <img src="https://img.shields.io/badge/RBAC-22C55E?style=flat-square&logo=lock&logoColor=white" alt="Role-Based Access Control" />
   </a>
 </p>
 
-`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Role-Based Access Control`
-
-### 🗄️ Database & ORM
+#### 🗄️ Database & ORM
 
 <p>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
   <a href="https://www.prisma.io/">
-    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma ORM" />
+    <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://mongoosejs.com/">
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" alt="Mongoose" />
   </a>
 </p>
 
-`PostgreSQL` `Prisma ORM` `MongoDB` `Mongoose`
-
-### 🔧 Tools & Platforms
+#### 🔧 Tools & Platforms
 
 <p>
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   </a>
   <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   </a>
 </p>
 
----
 
-## 🚀 What I Build
+
+<h2 align="left" style="border-bottom: none; margin-top: 50px; margin-bottom:5px;">🚀 What I Build</h2>
 
 - Production-ready SaaS applications
 - Full-stack dashboard applications
@@ -172,9 +185,9 @@
 - Interactive canvas and geospatial tools
 - Responsive and accessible user interfaces
 
----
 
-## 🌟 Featured Projects
+
+<h2 align="left" style="border-bottom: none; margin-top: 50px; margin-bottom:0px">🌟 Featured Projects</h2>
 
 <table>
   <tr>
@@ -200,7 +213,7 @@ A high-performance geospatial plotting and land measurement platform built with 
 
 <br/>
 
-<a href="YOUR_MOUZA_MAP_LIVE_LINK">
+<a href="https://mouzamappro.com">
   <img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=black" alt="Mouza Map Pro Live Demo" />
 </a>
 
@@ -228,15 +241,15 @@ A full-stack SaaS platform for managing meals, members, billing, expenses, and u
 
 <br/>
 
-<a href="YOUR_MESS_MANAGEMENT_LIVE_LINK">
+<a href="https://mess-os-client.vercel.app">
   <img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=black" alt="Mess Management Live Demo" />
 </a>
 
-<a href="YOUR_MESS_CLIENT_GITHUB_LINK">
+<a href="https://github.com/nurulla-hasan/mess_os_client">
   <img src="https://img.shields.io/badge/Client%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mess Management Client Code" />
 </a>
 
-<a href="YOUR_MESS_SERVER_GITHUB_LINK">
+<a href="https://github.com/nurulla-hasan/mess_os_server">
   <img src="https://img.shields.io/badge/Server%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mess Management Server Code" />
 </a>
 
@@ -265,12 +278,8 @@ A high-performance corporate website focused on SEO, content navigation, and opt
 
 <br/>
 
-<a href="YOUR_MENTORIP_LIVE_LINK">
+<a href="https://mentorip.com/">
   <img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=black" alt="MentorIP Live Demo" />
-</a>
-
-<a href="YOUR_MENTORIP_GITHUB_LINK">
-  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MentorIP Source Code" />
 </a>
 
 </td>
@@ -296,13 +305,10 @@ A vendor marketplace with advanced discovery, comparison workflows, and separate
 
 <br/>
 
-<a href="YOUR_WEDDING_MARKETPLACE_LIVE_LINK">
+<a href="https://elevator-website-six.vercel.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=black" alt="Wedding Marketplace Live Demo" />
 </a>
 
-<a href="YOUR_WEDDING_MARKETPLACE_GITHUB_LINK">
-  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Wedding Marketplace Source Code" />
-</a>
 
 </td>
   </tr>
@@ -431,7 +437,7 @@ A centralized server-side API fetching layer for scalable Next.js applications.
   />
 </a>
 
-<a href="./Nurulla_Hasan_Resume.pdf">
+<a href="./resume.pdf">
   <img
     src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
     alt="Resume"
