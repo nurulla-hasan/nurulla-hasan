@@ -46,20 +46,23 @@
 
 - 🏢 Currently working as a **Frontend Developer at Betopia Group**.
 
-- 🎨 Using **React, Next.js, TypeScript, Tailwind CSS, Zustand, and Redux Toolkit** for frontend development.
+- 🎨 Using **React, Next.js, TypeScript, Tailwind CSS, Zustand, and TanStack Query** for frontend development.
 
-- ⚙️ Using **Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, and Mongoose** for backend development.
+- ⚙️ Working with **Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, and REST APIs** for backend development.
 
-- 🌱 Currently learning **advanced backend architecture, Docker, and AWS**.
+- 🎓 Currently continuing the **Programming Hero Next Level Web Development Program**.
 
-- 💬 Ask me about **Full-Stack Development, React, Next.js, Node.js, PostgreSQL, Prisma, and MongoDB**.
+- 🌱 Recently completed **PostgreSQL and Prisma ORM**.
 
-- 🌐 Explore my **[Portfolio](https://nurulla-hasan-portfolio-pink.vercel.app/)** and **[Resume](./Nurulla_Hasan_Resume.pdf)**.
+- 🗺️ Building **Mouza Map Pro** and a **Mess Management System**.
 
-- ✍️ I regularly share my development journey on **[LinkedIn](https://www.linkedin.com/in/nurulla-hasan/)**.
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma, and MongoDB**.
 
-- 📫 Feel free to reach me via **[Email](mailto:nurullahasan.dev@gmail.com)**.
+- 🌐 Explore my **[Portfolio](https://nurulla-hasan-portfolio-pink.vercel.app/)** and **[Resume](./resume.pdf)**.
 
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/nurulla-hasan/)**.
+
+- 📫 Reach me via **[Email](mailto:nurullahasan.dev@gmail.com)**.
 ---
 
 ## 🛠️ Technology Stack
