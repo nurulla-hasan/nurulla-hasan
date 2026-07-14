@@ -11,7 +11,7 @@
 
 # Hi 👋, I'm Nurulla Hasan
 
-### Full-Stack Web Developer from Bangladesh 🇧🇩
+### Full-Stack Web Developer
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+PostgreSQL;Prisma+ORM+%7C+MongoDB;Building+Production-Ready+Web+Applications+%F0%9F%9A%80"
@@ -42,29 +42,21 @@
 
 - 👋 Hi, I'm **[Nurulla Hasan](https://github.com/nurulla-hasan)**.
 
-- 💻 I'm a **Full-Stack Web Developer** with **1+ year of professional experience** building production-ready SaaS platforms, dashboard applications, interactive tools, and corporate websites.
+- 💻 I'm a **Full-Stack Web Developer** with 1+ year of professional experience.
 
-- 🏢 I'm currently working as a **Frontend Developer at Betopia Group**, building scalable frontend systems and API-integrated applications.
+- 🏢 Currently working as a **Frontend Developer at Betopia Group**.
 
-- 🎨 For frontend development, I work with [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/), [Zustand](https://zustand-demo.pmnd.rs/), and [TanStack Query](https://tanstack.com/query).
+- 🎨 Using **React, Next.js, TypeScript, Tailwind CSS, Zustand, and Redux Toolkit** for frontend development.
 
-- ⚙️ For backend development, I work with [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), [PostgreSQL](https://www.postgresql.org/), [Prisma ORM](https://www.prisma.io/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://mongoosejs.com/), REST APIs, and JWT authentication.
+- ⚙️ Using **Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, and Mongoose** for backend development.
 
-- 🎓 I'm currently continuing the **Programming Hero Next Level Web Development Program**, where I am strengthening my backend and software architecture skills.
+- 🌱 Currently learning **advanced backend architecture, Docker, and AWS**.
 
-- 🗺️ I'm building **[Mouza Map Pro](YOUR_MOUZA_MAP_LIVE_LINK)** — an interactive geospatial land plotting, measurement, and PDF reporting platform.
+- 💬 Ask me about **Full-Stack Development, React, Next.js, Node.js, PostgreSQL, Prisma, and MongoDB**.
 
-- 🍽️ I developed a **[Mess Management System](YOUR_MESS_MANAGEMENT_LIVE_LINK)** with automated billing, dynamic meal-rate calculation, role-based dashboards, and AI-assisted planning.
+- 🌐 Explore my **[Portfolio](https://nurulla-hasan-portfolio-pink.vercel.app/)** and **[Resume](./Nurulla_Hasan_Resume.pdf)**.
 
-- 🧩 I enjoy building reusable developer tools such as **useNextFilter** and **nextServerFetch** for scalable Next.js applications.
-
-- 💬 Ask me about **Full-Stack Development, React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB**.
-
-- 🌐 Explore my work on my **[Portfolio](https://nurulla-hasan-portfolio-pink.vercel.app/)**.
-
-- 📄 View my **[Resume](./Nurulla_Hasan_Resume.pdf)**.
-
-- ✍️ I regularly share my development journey and technical learnings on **[LinkedIn](https://www.linkedin.com/in/nurulla-hasan/)**.
+- ✍️ I regularly share my development journey on **[LinkedIn](https://www.linkedin.com/in/nurulla-hasan/)**.
 
 - 📫 Feel free to reach me via **[Email](mailto:nurullahasan.dev@gmail.com)**.
 
