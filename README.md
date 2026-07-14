@@ -7,7 +7,7 @@
   alt="Nurulla Hasan - Full-Stack Developer Banner"
 />
 
-<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Hi 👋, I'm Nurulla Hasan</h1>
+<h1 align="center">Hi 👋, I'm Nurulla Hasan</h1>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+PostgreSQL;Prisma+ORM+%7C+MongoDB;Building+Production-Ready+Web+Applications+%F0%9F%9A%80"
@@ -15,7 +15,8 @@
 />
 </div>
 
-<h2 align="left" style="border-bottom: none;">👨‍💻 About Me</h2>
+<br>
+<h3 align="left">👨‍💻 About Me</h3>
 
 - 👋 Hi, I'm **[Nurulla Hasan](https://github.com/nurulla-hasan)**.
 
@@ -42,7 +43,8 @@
 - 📫 Reach me via **[Email](mailto:nurullahasan.dev@gmail.com)**.
 
 
-<h2 align="left" style="border-bottom: none; margin-top:100px;">🛠️ Technology Stack</h2>
+<br>
+<h3 align="left">🛠️ Technology Stack</h3>
 
 #### 💻 Languages
 
@@ -172,7 +174,8 @@
 
 
 
-<h2 align="left" style="border-bottom: none; margin-top: 100px; margin-bottom:5px;">🚀 What I Build</h2>
+<br>
+<h3 align="left">🚀 What I Build</h3>
 
 - Production-ready SaaS applications
 - Full-stack dashboard applications
@@ -187,7 +190,8 @@
 
 
 
-<h2 align="left" style="border-bottom: none; margin-top: 100px; margin-bottom:0px">🌟 Featured Projects</h2>
+<br>
+<h3 align="left">🌟 Featured Projects</h3>
 
 <table>
   <tr>
@@ -316,7 +320,8 @@ A vendor marketplace with advanced discovery, comparison workflows, and separate
 
 ---
 
-## 🧩 Developer Highlights
+<br>
+<h3 align="left">🧩 Developer Highlights</h3>
 
 <table>
   <tr>
@@ -356,7 +361,8 @@ A centralized server-side API fetching layer for scalable Next.js applications.
 
 ---
 
-## 📈 Contribution Activity
+<br>
+<h3 align="left">📈 Contribution Activity</h3>
 
 <div align="center">
 
@@ -370,7 +376,8 @@ A centralized server-side API fetching layer for scalable Next.js applications.
 
 ---
 
-## 🤝 Connect With Me
+<br>
+<h3 align="left">🤝 Connect With Me</h3>
 
 <div align="center">
 
