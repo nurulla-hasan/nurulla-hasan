@@ -15,7 +15,6 @@
 />
 </div>
 
-<br>
 <h3 align="left">👨‍💻 About Me</h3>
 
 - 👋 Hi, I'm **[Nurulla Hasan](https://github.com/nurulla-hasan)**.
