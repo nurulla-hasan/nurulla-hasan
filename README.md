@@ -2,7 +2,7 @@
 
 <!-- Banner: Keep banner3.png inside your GitHub profile repository -->
 <img
-  src="banner3.png"
+  src="banner.png"
   width="100%"
   alt="Nurulla Hasan - Full-Stack Developer Banner"
 />
@@ -42,7 +42,7 @@
 - 📫 Reach me via **[Email](mailto:nurullahasan.dev@gmail.com)**.
 
 
-<h2 align="left" style="border-bottom: none; margin-top:50px;">🛠️ Technology Stack</h2>
+<h2 align="left" style="border-bottom: none; margin-top:100px;">🛠️ Technology Stack</h2>
 
 #### 💻 Languages
 
@@ -172,7 +172,7 @@
 
 
 
-<h2 align="left" style="border-bottom: none; margin-top: 50px; margin-bottom:5px;">🚀 What I Build</h2>
+<h2 align="left" style="border-bottom: none; margin-top: 100px; margin-bottom:5px;">🚀 What I Build</h2>
 
 - Production-ready SaaS applications
 - Full-stack dashboard applications
@@ -187,7 +187,7 @@
 
 
 
-<h2 align="left" style="border-bottom: none; margin-top: 50px; margin-bottom:0px">🌟 Featured Projects</h2>
+<h2 align="left" style="border-bottom: none; margin-top: 100px; margin-bottom:0px">🌟 Featured Projects</h2>
 
 <table>
   <tr>
