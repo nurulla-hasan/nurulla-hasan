@@ -356,41 +356,6 @@ A centralized server-side API fetching layer for scalable Next.js applications.
 
 ---
 
-## 📊 GitHub Statistics & Analytics
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurulla-hasan&theme=tokyonight"
-  width="100%"
-  alt="Nurulla Hasan GitHub Profile Details"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurulla-hasan&theme=tokyonight"
-  height="170"
-  alt="Nurulla Hasan GitHub Statistics"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurulla-hasan&theme=tokyonight"
-  height="170"
-  alt="Nurulla Hasan Most Committed Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=nurulla-hasan&theme=tokyonight&hide_border=true"
-  alt="Nurulla Hasan GitHub Contribution Streak"
-/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
