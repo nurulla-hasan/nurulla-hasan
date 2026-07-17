@@ -143,9 +143,6 @@
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
-  <a href="https://mongoosejs.com/">
-    <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" alt="Mongoose" />
-  </a>
 </p>
 
 #### 🔧 Tools & Platforms
