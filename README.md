@@ -30,8 +30,11 @@
 
 - 🎯 **Frontend Developer | Full-Stack Capable**
 - 🏢 **Junior Frontend Developer at Sparktech Agency**
-- 🎓 Enrolled in **Programming Hero's Next Level Web Development Program**
-- 🚀 Building practical and scalable web products
+- 💼 **1+ years** of professional web development
+- 🎓 Enrolled in **Programming Hero's Next Level Program**
+- 📘 Completed **Next.js, Node.js, PostgreSQL & Prisma**
+- 🗺️ Building **Mouza Map Pro V2**
+- 🚀 Growing as a **product-focused frontend engineer**
 
 ## 🛠️ Skills & Tools
 
