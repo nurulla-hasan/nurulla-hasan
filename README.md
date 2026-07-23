@@ -34,6 +34,17 @@
 - ⚙️ Comfortable developing backend APIs with **Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB**.
 - 🚀 Interested in reusable architecture, complex UI workflows, performance, accessibility, and practical product development.
 
+## 🛠️ Core Skills
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,postgres&perline=8"
+  alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux Toolkit, Node.js, and PostgreSQL"
+/>
+
+</div>
+
 ## 🚀 Featured Projects
 
 ### 🗺️ Mouza Map Pro
@@ -108,19 +119,19 @@ A server-only API request utility for consistent data fetching in Next.js applic
 - 🚨 Consistent API error handling
 - 📤 Support for common request body types
 
-## 🛠️ Skills & Tools
+## 🔧 Additional Skills & Tools
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,postgres,prisma,mongodb,git,github,vercel,figma&perline=8"
-  alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Git, GitHub, Vercel, and Figma"
+  src="https://skillicons.dev/icons?i=express,prisma,mongodb,git,github,vercel,figma,vscode&perline=8"
+  alt="Express.js, Prisma, MongoDB, Git, GitHub, Vercel, Figma, and VS Code"
 />
 
 </div>
 
 <p align="center">
-  <strong>Also working with:</strong> Zustand · TanStack Query · React Hook Form · Zod · REST APIs · JWT · Postman · shadcn/ui · Konva.js
+  Zustand · TanStack Query · React Hook Form · Zod · REST APIs · JWT · Postman · shadcn/ui · Konva.js
 </p>
 
 ## 📈 Contribution Activity
