@@ -30,7 +30,7 @@
 
 - 🎯 **Frontend Developer | Full-Stack Capable**
 - 🏢 **Junior Frontend Developer at Sparktech Agency**
-- ⚛️ Focused on **React, Next.js, and TypeScript**
+- 🎓 Enrolled in **Programming Hero's Next Level Web Development Program**
 - 🚀 Building practical and scalable web products
 
 ## 🛠️ Skills & Tools
