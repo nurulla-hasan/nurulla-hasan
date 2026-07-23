@@ -98,20 +98,6 @@ A full-stack mess management platform for managing meals, members, shopping, exp
 
 ---
 
-### ⚖️ MentorIP Law Firm
-
-A production corporate website focused on SEO, structured content, navigation, accessibility, and efficient rendering.
-
-- 🔎 JSON-LD structured data and search-focused content
-- 📚 Dynamic HTML table of contents
-- ⌨️ Global command palette
-- ⚡ On-demand ISR and content caching
-- 📱 Responsive and accessible user interface
-
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://mentorip.com/)
-
 ## 🧩 Developer Highlights
 
 ### 🔍 useNextFilter
