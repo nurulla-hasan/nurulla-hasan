@@ -28,20 +28,34 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 Frontend-focused developer with full-stack capability and over one year of professional experience.
-- 🏢 Currently working as a **Junior Frontend Developer at Sparktech Agency**.
-- ⚛️ Building responsive and maintainable products with **React, Next.js, TypeScript, Tailwind CSS, Zustand, Redux Toolkit, and TanStack Query**.
-- ⚙️ Comfortable developing backend APIs with **Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB**.
-- 🚀 Interested in reusable architecture, complex UI workflows, performance, accessibility, and practical product development.
+- 🎯 **Frontend Developer | Full-Stack Capable**
+- 🏢 **Junior Frontend Developer at Sparktech Agency**
+- ⚛️ Focused on **React, Next.js, and TypeScript**
+- 🚀 Building practical and scalable web products
 
-## 🛠️ Core Skills
+## 🛠️ Skills & Tools
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,postgres&perline=8"
-  alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux Toolkit, Node.js, and PostgreSQL"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,postgres,prisma,mongodb,git,github,vercel,vscode,figma,postman,npm&perline=10"
+  alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux Toolkit, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Git, GitHub, Vercel, VS Code, Figma, Postman, and npm"
 />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Konva.js-0D83CD?style=for-the-badge&logo=javascript&logoColor=white" alt="Konva.js" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/jsPDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF" />
 
 </div>
 
@@ -118,21 +132,6 @@ A server-only API request utility for consistent data fetching in Next.js applic
 - 📦 Safe JSON response parsing
 - 🚨 Consistent API error handling
 - 📤 Support for common request body types
-
-## 🔧 Additional Skills & Tools
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=express,prisma,mongodb,git,github,vercel,figma,vscode&perline=8"
-  alt="Express.js, Prisma, MongoDB, Git, GitHub, Vercel, Figma, and VS Code"
-/>
-
-</div>
-
-<p align="center">
-  Zustand · TanStack Query · React Hook Form · Zod · REST APIs · JWT · Postman · shadcn/ui · Konva.js
-</p>
 
 ## 📈 Contribution Activity
 
