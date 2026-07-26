@@ -28,13 +28,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 **Frontend Developer | Full-Stack Capable**
-- 🏢 **Junior Frontend Developer at Sparktech Agency**
-- 💼 **1+ years** of professional web development
-- 🎓 Enrolled in **Programming Hero's Next Level Program**
-- 📘 Completed **Next.js, Node.js, PostgreSQL & Prisma**
-- 🗺️ Building **Mouza Map Pro V2**
-- 🚀 Growing as a **product-focused frontend engineer**
+- 💼 Frontend Developer with **1+ years of professional experience**
+- 🏢 Working as a **Junior Frontend Developer at Sparktech Agency**
+- ⚛️ Specialized in **React.js, Next.js, TypeScript, and Tailwind CSS**
+- 🧩 Building production websites, role-based dashboards, and reusable frontend systems
+- 🗺️ Currently developing **Mouza Map Pro V2**
+- 🚀 Growing as a product-focused frontend engineer
 
 ## 🛠️ Skills & Tools
 
