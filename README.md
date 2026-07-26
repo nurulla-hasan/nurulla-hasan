@@ -5,8 +5,8 @@
 # Hi, I'm Nurulla Hasan 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Full-Stack+Capable;Building+Useful+Web+Products"
-  alt="Frontend Developer typing introduction"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Growing+into+Full-Stack+Development;Building+AI-Powered+Web+Products"
+  alt="Frontend Developer focused on full-stack and AI-powered products"
 />
 
 <p>
@@ -35,29 +35,72 @@
 - 🗺️ Currently developing **Mouza Map Pro V2**
 - 🚀 Growing as a product-focused frontend engineer
 
+## 🧭 Current Direction
+
+- 🎯 Currently focused professionally on **frontend engineering**
+- 🧱 Expanding into **full-stack development** with Node.js, Express.js, databases, and API architecture
+- 🤖 Building experience with **AI-assisted workflows and practical AI integrations**
+- 🚀 Long-term direction: creating reliable, end-to-end **AI-driven web products**
+
 ## 🛠️ Skills & Tools
+
+### Frontend Core
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,postgres,prisma,mongodb,git,github,vercel,vscode,figma,postman,npm&perline=10"
-  alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux Toolkit, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, Git, GitHub, Vercel, VS Code, Figma, Postman, and npm"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8"
+  alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Redux Toolkit"
 />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white" alt="TanStack Table" />
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+
+</div>
+
+### Specialized Frontend Experience
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Konva.js-0D83CD?style=for-the-badge&logo=javascript&logoColor=white" alt="Konva.js" />
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/jsPDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF" />
+
+</div>
+
+### Backend, Data & API Experience
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&perline=5"
+  alt="Node.js, Express.js, PostgreSQL, Prisma, and MongoDB"
+/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/jsPDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF" />
+<img src="https://img.shields.io/badge/AI_Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI integrations" />
+
+</div>
+
+### Development Tools
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,npm&perline=7"
+  alt="Git, GitHub, Vercel, VS Code, Figma, Postman, and npm"
+/>
 
 </div>
 
@@ -121,6 +164,8 @@ A server-only API request utility for consistent data fetching in Next.js applic
 - 🚨 Consistent API error handling
 - 📤 Support for common request body types
 
+[![View Utilities Repository](https://img.shields.io/badge/View%20Utilities%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurulla-hasan/my_project_tools)
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -137,6 +182,6 @@ A server-only API request utility for consistent data fetching in Next.js applic
 
 <div align="center">
 
-**Frontend Developer · Full-Stack Capable · Building practical web products**
+**Frontend Developer · Growing into Full-Stack & AI-Driven Product Development**
 
 </div>
