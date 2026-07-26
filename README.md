@@ -44,16 +44,16 @@
 
 ## 🛠️ Skills & Tools
 
-### Frontend Core
-
 <div align="center">
+
+<p><strong>Frontend Development</strong></p>
 
 <img
   src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8"
   alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Redux Toolkit"
 />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
@@ -61,41 +61,30 @@
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-
-</div>
-
-### Specialized Frontend Experience
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Konva.js-0D83CD?style=for-the-badge&logo=javascript&logoColor=white" alt="Konva.js" />
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 <img src="https://img.shields.io/badge/jsPDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF" />
 
-</div>
+<br/><br/>
 
-### Backend, Data & API Experience
-
-<div align="center">
+<p><strong>Backend, Data & AI</strong></p>
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&perline=5"
   alt="Node.js, Express.js, PostgreSQL, Prisma, and MongoDB"
 />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/AI_Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI integrations" />
 
-</div>
+<br/><br/>
 
-### Development Tools
-
-<div align="center">
+<p><strong>Development Tools</strong></p>
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,npm&perline=7"
