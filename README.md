@@ -147,7 +147,7 @@ A reusable, type-safe hook for managing URL-driven filters in Next.js App Router
 A typed, server-only fetch abstraction for Next.js App Router that validates requests early, applies cookie-based authentication, parses JSON responses, and exposes structured API failures.
 
 - 🔐 Supports `required`, `optional`, and `none` authentication modes
-- 🍪 Reads and memoizes the access token from cookies with React `cache`
+- 🍪 Reads the current access token directly from request cookies
 - ⚡ Rejects invalid request bodies early, including bodies sent with `GET` or `HEAD`
 - 📤 Supports JSON, strings, `FormData`, `URLSearchParams`, `Blob`, `ArrayBuffer`, and typed-array request bodies
 - 📦 Handles `204`, `205`, and empty responses while rejecting malformed JSON responses
