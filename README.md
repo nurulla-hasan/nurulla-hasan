@@ -5,8 +5,8 @@
 # Hi, I'm Nurulla Hasan 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Growing+into+Full-Stack+Development;Building+AI-Powered+Web+Products"
-  alt="Frontend Developer focused on full-stack and AI-powered products"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Next+Level+Batch+7+Learner;Growing+into+AI-Driven+Full-Stack+Development"
+  alt="Frontend Developer growing into AI-driven full-stack development"
 />
 
 <p>
@@ -33,14 +33,14 @@
 - ⚛️ Specialized in **React.js, Next.js, TypeScript, and Tailwind CSS**
 - 🧩 Building production websites, role-based dashboards, and reusable frontend systems
 - 🗺️ Currently developing **Mouza Map Pro V2**
-- 🚀 Growing as a product-focused frontend engineer
+- 🚀 Following **Programming Hero's Next Level Batch 7** to grow into an AI-driven full-stack developer
 
-## 🧭 Current Direction
+## 🎓 Learning Journey
 
-- 🎯 Currently focused professionally on **frontend engineering**
-- 🧱 Expanding into **full-stack development** with Node.js, Express.js, databases, and API architecture
-- 🤖 Building experience with **AI-assisted workflows and practical AI integrations**
-- 🚀 Long-term direction: creating reliable, end-to-end **AI-driven web products**
+- 🎯 Currently working professionally in **frontend engineering**
+- 🧱 Advancing through **TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Next.js, API design, and system architecture**
+- 🐳 Expanding into deployment and infrastructure concepts including **Docker and Nginx**
+- 🤖 Progressing toward practical **AI and LLM integrations, semantic search, RAG, and AI-powered product development**
 
 ## 🛠️ Skills & Tools
 
@@ -144,14 +144,15 @@ A reusable, type-safe hook for managing URL-driven filters in Next.js App Router
 
 ### 🌐 nextServerFetch
 
-A server-only API request utility for consistent data fetching in Next.js applications.
+A typed, server-only fetch abstraction for Next.js App Router that validates requests early, applies cookie-based authentication, parses JSON responses, and exposes structured API failures.
 
-- 🔐 Required, optional, and unauthenticated request modes
-- 🍪 Cookie-based access-token handling
-- 🧰 Standardized headers and request configuration
-- 📦 Safe JSON response parsing
-- 🚨 Consistent API error handling
-- 📤 Support for common request body types
+- 🔐 Supports `required`, `optional`, and `none` authentication modes
+- 🍪 Reads and memoizes the access token from cookies with React `cache`
+- ⚡ Rejects invalid request bodies early, including bodies sent with `GET` or `HEAD`
+- 📤 Supports JSON, strings, `FormData`, `URLSearchParams`, `Blob`, `ArrayBuffer`, and typed-array request bodies
+- 📦 Handles `204`, `205`, and empty responses while rejecting malformed JSON responses
+- 🚨 Throws structured `ApiError` instances with status, response data, validation details, and normalized network failures
+- 🗂️ Preserves native fetch options and Next.js `next` configuration for caching, tags, and revalidation
 
 [![View Utilities Repository](https://img.shields.io/badge/View%20Utilities%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurulla-hasan/my_project_tools)
 
@@ -171,6 +172,6 @@ A server-only API request utility for consistent data fetching in Next.js applic
 
 <div align="center">
 
-**Frontend Developer · Growing into Full-Stack & AI-Driven Product Development**
+**Frontend Developer · Growing through Next Level Batch 7 toward AI-Driven Full-Stack Development**
 
 </div>
